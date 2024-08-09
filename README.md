@@ -41,13 +41,13 @@ Demo Video</a>
 
 <br>
 
-<a href='https://github.com/itsArnavPrasad/Drone_Detector_Detectron2/Drone_Detection_Project_Idea.pdf'>
+<a href='https://github.com/itsArnavPrasad/Drone_Detector_Detectron2/'>
 Project Idea
 </a>
 
 <br>
 
-<a href='https://github.com/itsArnavPrasad/Drone_Detector_Detectron2/Drone_Detector_Presentation'>
+<a href='https://github.com/itsArnavPrasad/Drone_Detector_Detectron2/'>
 Project Presentation
 </a>
 
